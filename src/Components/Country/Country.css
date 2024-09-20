@@ -12,6 +12,8 @@ body{
    width: 370px;
    box-shadow: 1px 2px 25px;
    border-radius: 5px;
+   align-items: start;
+  justify-content: space-between;
 }
 img{
     height: 80px;

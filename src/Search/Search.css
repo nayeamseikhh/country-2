@@ -1,0 +1,14 @@
+.Search-box{
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    border: 2px solid rgb(22, 150, 5);
+    background-color: rgb(3, 47, 55);
+    color: aliceblue;
+    text-shadow: 1px 7px 10px rgb(215, 212, 213);
+    font-weight: bold;
+}
+.Search-box::placeholder {
+    color: rgb(255, 255, 255);
+    opacity: 1;
+}
